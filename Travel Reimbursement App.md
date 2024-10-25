@@ -16,8 +16,10 @@ Using youtube video: https://www.youtube.com/playlist?list=PLQ22tllx2lWWa6-87R4j
 ![image](https://github.com/user-attachments/assets/38ba2e8e-2160-4e3a-a05d-07c875908488)
 
 6- Create a site for the HR people to access the pages from
-7- Create a record page for HR to keep track of all records
+7- Create a record page for HR to keep track of all records (add it in the HR website)
 ![image](https://github.com/user-attachments/assets/e4bebc36-9339-4aad-8fd7-50272684b966)
 
 8- Modify the record list of the record page. Take out redundant columns and modify the Approved column to show icons instead of Approved/Rejected
 ![image](https://github.com/user-attachments/assets/0375a322-a5e9-422f-81cb-9b7bcebbcabb)
+
+9- Create a summary page (new interface) for the request using the Employee ID
